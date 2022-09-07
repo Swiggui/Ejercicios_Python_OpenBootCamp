@@ -1,0 +1,2 @@
+variableTexto = "Hola"
+print(variableTexto)
